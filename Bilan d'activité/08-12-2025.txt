@@ -1,0 +1,15 @@
+Matinée :
+
+Poursuite de la création des Dockerfiles prod/dev pour le backend et le frontend.
+Amélioration de mon docker-compose.prod.
+Ajout des images du backend et du frontend sur GitHub Container Registry pour le docker-compose.prod.
+
+Après-midi :
+
+Évaluation des différents projets de l’ESP et rédaction d’un document texte pour les notes des projets.
+
+commit :
+
+https://github.com/EpitechMscProPromo2027/T-DEV-700-project-TLS_11/commit/2a2d3a3592ec35e74226cc9915ff87ffb795d8f6
+https://github.com/EpitechMscProPromo2027/T-DEV-700-project-TLS_11/commit/2ca9b338759efb2a7e46814f4e69072cc6ca0273
+https://github.com/EpitechMscProPromo2027/T-DEV-700-project-TLS_11/commit/6bdb280be8217c0de1906f7cfb8c9c434a420377
