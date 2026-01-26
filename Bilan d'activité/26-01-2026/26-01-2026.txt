@@ -1,0 +1,10 @@
+matin : 
+
+Bootstrap T-DEV 810
+https://github.com/EpitechMscProPromo2027/T-DEV-810-TLS_2/tree/bootstrap-thomas-renaux
+
+après midi : 
+
+recherche de different besoin technique du projet ESP
+redaction de document technique projet ESP
+https://www.notion.so/Drush-document-technique-2f4dbe3f686380b17994e765fd7a1920?source=copy_link
