@@ -1,0 +1,9 @@
+Matin : 
+Création d'un nouveau notebook jupyuter pour le projet 810 avec nouvelle methode (SVM/HOG) 
+https://github.com/EpitechMscProPromo2027/T-DEV-810-TLS_2
+Réunion pour le projet ESP
+
+
+Après Midi :
+Avancé dur le projet ESP (Multiplayer)
+https://github.com/EpitechMscProPromo2027/T-ESP-800-project-100891-TLS_DRUSH
