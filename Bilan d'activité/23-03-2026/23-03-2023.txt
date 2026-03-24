@@ -1,0 +1,9 @@
+Matin : 
+Travail sur le networking (création de room multijoueur avec mot de passe)
+https://github.com/EpitechMscProPromo2027/T-ESP-800-project-100891-TLS_DRUSH
+
+Après midi : 
+Travail sur la documentation du networking dans le projet
+
+
+(impossible de push sur GitHub a cause d'un problème avec gitlfs screenshot dans le dossier)
