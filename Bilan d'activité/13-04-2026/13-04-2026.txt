@@ -1,0 +1,6 @@
+Matin: 
+Integration dev into network (assermbly et résolution de bugs)
+https://github.com/EpitechMscProPromo2027/T-ESP-800-project-100891-TLS_DRUSH
+
+Après midi:
+Sur site avec intervenant coach alternance, travail sur la doc
