@@ -1,0 +1,4 @@
+matin + après midi : 
+Travail sur le T-DEV 810 en prévision du follow up de demain 
+
+Nouvelle version avec PCA + HOG + LR 
