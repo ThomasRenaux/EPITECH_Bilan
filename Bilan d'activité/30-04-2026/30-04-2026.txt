@@ -1,0 +1,7 @@
+Matin 
+Réunion pour le projet ESP + travail sur les tests unitaire de la partie networking de l'ESP
+https://github.com/EpitechMscProPromo2027/T-ESP-800-project-100891-TLS_DRUSH
+
+Apres midi 
+Travail sur les tests unitaire de la partie networking de l'ESP
+https://github.com/EpitechMscProPromo2027/T-ESP-800-project-100891-TLS_DRUSH

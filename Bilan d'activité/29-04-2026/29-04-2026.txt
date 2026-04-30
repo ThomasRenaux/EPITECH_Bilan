@@ -1,0 +1,7 @@
+Matin 
+Modification du notebook du T DEV 810 après follow up
+https://github.com/EpitechMscProPromo2027/T-DEV-810-TLS_2
+
+Après midi 
+Travail sur les tests unitaire de la partie networking de l'ESP
+https://github.com/EpitechMscProPromo2027/T-ESP-800-project-100891-TLS_DRUSH
