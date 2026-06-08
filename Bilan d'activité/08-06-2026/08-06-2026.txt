@@ -1,0 +1,3 @@
+Matin + Après midi : 
+
+Travail sur le CNN pour le projet T-DEV 810 en pour le rendu du projet en fin de semaine (création d'un CNN perso)
